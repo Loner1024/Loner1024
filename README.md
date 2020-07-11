@@ -1,6 +1,6 @@
 ### Hi there 👋️
 
-![avatar](https://github.com/Loner1024/Loner1024/blob/master/avatar.jpg)
+![avatar](https://github.com/Loner1024/Loner1024/blob/master/avatar.png)
 
 **I'm Loner, thanks for visit my Github profile. Nice to meet you!**
 

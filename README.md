@@ -11,16 +11,16 @@ I use and learn Golang, Python, C and Vue. There is my blog [loner's blog](https
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 April 2022 - To: 04 May 2022
+From: 05 April 2022 - To: 05 May 2022
 
-Total Time: 83 hrs 55 mins
+Total Time: 84 hrs 10 mins
 
-Go                                   █████████████████░░░░░░░░   68.04 %
-TypeScript                           █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-Protocol Buffer                      █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-Lua                                  █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-protobuf                             ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-YAML                                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Go                                   █████████████████░░░░░░░░   67.84 %
+TypeScript                           █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Protocol Buffer                      █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Lua                                  █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+protobuf                             ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+YAML                                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
 ```
 
 <!--END_SECTION:waka-->

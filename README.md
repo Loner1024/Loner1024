@@ -11,16 +11,7 @@ I use and learn Golang, Python, C and Vue. There is my blog [loner's blog](https
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 June 2022 - To: 21 July 2022
-
-Total Time: 45 hrs 21 mins
-
-Go                                   ██████████████░░░░░░░░░░░   55.60 %
-TypeScript                           ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
-sh                                   ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
-Python                               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-YAML                                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Markdown                             ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

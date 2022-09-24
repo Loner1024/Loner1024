@@ -11,7 +11,7 @@ I use and learn Golang, Python, C and Vue. There is my blog [loner's blog](https
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 August 2022 - To: 21 September 2022
+From: 23 August 2022 - To: 22 September 2022
 
 Total Time: 20 hrs 35 mins
 

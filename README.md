@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 November 2022 - To: 30 November 2022
+From: 24 November 2022 - To: 01 December 2022
 
-Total Time: 29 mins
+Total Time: 2 hrs 24 mins
 
-Go                           ████████████████████████▒   96.68 %
-TypeScript                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-sh                           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Rust                   ███████████▓░░░░░░░░░░░░░   47.21 %
+sh                     ███████████▓░░░░░░░░░░░░░   46.28 %
+TOML                   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
 ```
 
 <!--END_SECTION:waka-->

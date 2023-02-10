@@ -1,5 +1,7 @@
 ### Hi there 👋️
 
+![](https://komarev.com/ghpvc/?username=Loner1024)
+
 <!--START_SECTION:waka-->
 
 ```text

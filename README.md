@@ -5,12 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 April 2023 - To: 23 April 2023
+From: 17 April 2023 - To: 24 April 2023
 
-Total Time: 10 mins
+Total Time: 6 mins
 
-Go                     ████████████████▒░░░░░░░░   65.66 %
-Rust                   ████████▓░░░░░░░░░░░░░░░░   34.34 %
+Rust                   ██████████████░░░░░░░░░░░   55.87 %
+Go                     ███████████░░░░░░░░░░░░░░   44.13 %
 ```
 
 <!--END_SECTION:waka-->

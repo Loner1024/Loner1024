@@ -5,11 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 May 2023 - To: 09 May 2023
+From: 03 May 2023 - To: 10 May 2023
 
-Total Time: 5 mins
+Total Time: 9 mins
 
-Go                   █████████████████████████   100.00 %
+Go                     ███████████████▒░░░░░░░░░   61.52 %
+Rust                   █████████▓░░░░░░░░░░░░░░░   38.48 %
 ```
 
 <!--END_SECTION:waka-->

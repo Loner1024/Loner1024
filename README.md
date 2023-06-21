@@ -5,11 +5,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 June 2023 - To: 19 June 2023
+From: 13 June 2023 - To: 20 June 2023
 
-Total Time: 0 secs
+Total Time: 1 hr 14 mins
 
-No activity tracked
+Rust                             ██████████████████████▒░░   89.98 %
+GitIgnore file                   █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+HTML                             ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Python                           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+TOML                             ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->

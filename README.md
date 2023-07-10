@@ -5,12 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2023 - To: 08 July 2023
+From: 02 July 2023 - To: 09 July 2023
 
-Total Time: 2 hrs 45 mins
+Total Time: 1 hr 9 mins
 
-Go                     ████████████████████████▓   98.33 %
-Rust                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Go                     ████████████████████████░   96.03 %
+Rust                   █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
 ```
 
 <!--END_SECTION:waka-->

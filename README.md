@@ -5,11 +5,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2023 - To: 02 September 2023
+From: 27 August 2023 - To: 03 September 2023
 
-Total Time: 4 mins
+Total Time: 1 hr 22 mins
 
-Go                   █████████████████████████   100.00 %
+Rust                             █████████████████▒░░░░░░░   69.08 %
+HTML                             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
+Go                               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+Lua                              █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+TOML                             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
 ```
 
 <!--END_SECTION:waka-->

@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2023 - To: 13 September 2023
+From: 07 September 2023 - To: 14 September 2023
 
-Total Time: 2 hrs 24 mins
+Total Time: 34 mins
 
-Go                    ██████████████░░░░░░░░░░░   55.74 %
-C                     ███████████░░░░░░░░░░░░░░   44.24 %
-XML                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+C                     ██████████████████████▓░░   90.91 %
+Go                    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+XML                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->

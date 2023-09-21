@@ -5,15 +5,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2023 - To: 19 September 2023
+From: 13 September 2023 - To: 20 September 2023
 
-Total Time: 16 mins
+Total Time: 38 mins
 
-Go                               █████████▓░░░░░░░░░░░░░░░   38.71 %
-Makefile                         ████████░░░░░░░░░░░░░░░░░   31.59 %
-Markdown                         ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
-GitIgnore file                   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-Docker                           █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Rust                             ██████████████░░░░░░░░░░░   55.98 %
+Go                               ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
+Makefile                         ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
+Markdown                         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+GitIgnore file                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 ```
 
 <!--END_SECTION:waka-->

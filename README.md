@@ -5,13 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2023 - To: 26 September 2023
+From: 20 September 2023 - To: 27 September 2023
 
 Total Time: 0 secs
 
-Go                         ██████████▓░░░░░░░░░░░░░░   42.24 %
-C                          █████████▒░░░░░░░░░░░░░░░   37.27 %
-Makefile                   █████░░░░░░░░░░░░░░░░░░░░   20.49 %
+C                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

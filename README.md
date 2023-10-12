@@ -5,12 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2023 - To: 10 October 2023
+From: 04 October 2023 - To: 11 October 2023
 
-Total Time: 2 hrs 37 mins
+Total Time: 1 hr 37 mins
 
-Python                   ████████████████████████▓   98.17 %
-Ezhil                    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Python                   ████████████████████████▒   97.06 %
+Ezhil                    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->

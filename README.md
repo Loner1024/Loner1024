@@ -5,11 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2023 - To: 25 October 2023
+From: 20 October 2023 - To: 27 October 2023
 
-Total Time: 0 secs
+Total Time: 7 mins
 
-No activity tracked
+Go                         ███████████████████▓░░░░░   78.61 %
+Markdown                   █████▒░░░░░░░░░░░░░░░░░░░   21.15 %
+Lua                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->

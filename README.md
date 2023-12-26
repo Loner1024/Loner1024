@@ -5,11 +5,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2023 - To: 24 December 2023
+From: 18 December 2023 - To: 25 December 2023
 
-Total Time: 0 secs
+Total Time: 3 hrs 11 mins
 
-No activity tracked
+TypeScript                       ████████████████▓░░░░░░░░   67.09 %
+JSON                             ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
+Go                               █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+Rust                             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+CSS                              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
 ```
 
 <!--END_SECTION:waka-->

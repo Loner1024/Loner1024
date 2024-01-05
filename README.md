@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 December 2023 - To: 03 January 2024
+From: 28 December 2023 - To: 04 January 2024
 
-Total Time: 2 hrs 55 mins
+Total Time: 2 hrs 37 mins
 
-Other                            ███████████████████▓░░░░░   78.09 %
-Go                               ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
-TypeScript                       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
+Other                            ████████████████████░░░░░   79.85 %
+Go                               ████▓░░░░░░░░░░░░░░░░░░░░   18.02 %
+TypeScript                       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 go.mod                           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 GitIgnore file                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```

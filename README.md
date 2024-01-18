@@ -5,15 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2024 - To: 16 January 2024
+From: 10 January 2024 - To: 17 January 2024
 
-Total Time: 3 hrs 41 mins
+Total Time: 1 hr 57 mins
 
-Go                               ████████████████████████░   96.46 %
-Docker                           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Makefile                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Dockerfile                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-go.mod                           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Go                       █████████████████████████   99.90 %
+go.mod                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->

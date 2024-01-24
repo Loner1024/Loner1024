@@ -5,15 +5,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 January 2024 - To: 22 January 2024
+From: 16 January 2024 - To: 23 January 2024
 
-Total Time: 3 hrs 49 mins
+Total Time: 6 hrs 32 mins
 
-Go                                   █████████████████████████   99.79 %
-GitIgnore file                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-x86 Plan9 Assembly                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Assembly                             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Markdown                             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go                                   ████████████████████████░   95.62 %
+YAML                                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+CSV/TSV                              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+GitIgnore file                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+go.mod                               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->

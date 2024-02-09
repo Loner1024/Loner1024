@@ -5,12 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2024 - To: 07 February 2024
+From: 01 February 2024 - To: 08 February 2024
 
-Total Time: 2 hrs 5 mins
+Total Time: 1 hr 54 mins
 
-Go                         █████████████████████████   99.34 %
-Rust                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Go                         █████████████████████████   99.94 %
 Markdown                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 

@@ -5,15 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2024 - To: 16 February 2024
+From: 10 February 2024 - To: 17 February 2024
 
-Total Time: 1 hr 22 mins
+Total Time: 47 mins
 
-Go                                   ███████████████████████▒░   93.00 %
-Markdown                             ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-GitIgnore file                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-YAML                                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Text                                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Go                           █████████████████████████   99.82 %
+Markdown                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Docker                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Dockerfile                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->

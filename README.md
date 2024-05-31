@@ -5,12 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 May 2024 - To: 29 May 2024
+From: 23 May 2024 - To: 30 May 2024
 
-Total Time: 1 hr 43 mins
+Total Time: 46 mins
 
-Python                   █████████████▓░░░░░░░░░░░   54.86 %
-Go                       ███████████▒░░░░░░░░░░░░░   45.14 %
+Go                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

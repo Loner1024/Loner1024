@@ -5,11 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2024 - To: 31 May 2024
+From: 25 May 2024 - To: 01 June 2024
 
-Total Time: 17 mins
+Total Time: 15 mins
 
-Go                   █████████████████████████   100.00 %
+Go                         ████████████████████████▓   98.44 %
+Docker                     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+JSON                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+protobuf                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->

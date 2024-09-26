@@ -5,15 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2024 - To: 24 September 2024
+From: 18 September 2024 - To: 25 September 2024
 
-Total Time: 2 hrs 45 mins
+Total Time: 1 hr 35 mins
 
-Go                         ██████████████████████░░░   87.49 %
-YAML                       ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-Markdown                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-go.mod                     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Text                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Go                         ███████████████████████░░   91.98 %
+Markdown                   █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+go.mod                     █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
 ```
 
 <!--END_SECTION:waka-->

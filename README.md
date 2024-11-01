@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2024 - To: 30 October 2024
+From: 24 October 2024 - To: 31 October 2024
 
-Total Time: 4 hrs 48 mins
+Total Time: 5 hrs 16 mins
 
-Go                               ████████████████████▒░░░░   81.92 %
-Makefile                         ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
-GitIgnore file                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-go.mod                           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Go                               █████████████████████░░░░   83.55 %
+Makefile                         ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
+GitIgnore file                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+go.mod                           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 Shell Script                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 

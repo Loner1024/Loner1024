@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2024 - To: 01 November 2024
+From: 26 October 2024 - To: 02 November 2024
 
-Total Time: 2 hrs 32 mins
+Total Time: 2 hrs 12 mins
 
-Go                             █████████████████████▒░░░   85.42 %
-Makefile                       ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
-Shell Script                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Go                             ██████████████████████▒░░   89.69 %
+Makefile                       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
+Shell Script                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->

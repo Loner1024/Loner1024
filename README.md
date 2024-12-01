@@ -5,13 +5,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 November 2024 - To: 29 November 2024
+From: 23 November 2024 - To: 30 November 2024
 
-Total Time: 1 hr 29 mins
+Total Time: 2 hrs 34 mins
 
-Go                         █████████████████████▒░░░   84.80 %
-go.mod                     ███▓░░░░░░░░░░░░░░░░░░░░░   15.20 %
-Markdown                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Go                                ████████████████████▒░░░░   81.73 %
+JavaScript                        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+go.mod                            ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+Text                              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+textmate                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->

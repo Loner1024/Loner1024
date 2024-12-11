@@ -5,12 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2024 - To: 09 December 2024
+From: 03 December 2024 - To: 10 December 2024
 
-Total Time: 1 hr 18 mins
+Total Time: 1 hr 20 mins
 
-Go                           █████████████████████████   99.70 %
-go.mod                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Go                           █████████████████████████   99.49 %
+go.mod                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+JSON                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 Docker                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Dockerfile                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```

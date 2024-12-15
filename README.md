@@ -5,12 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2024 - To: 13 December 2024
+From: 07 December 2024 - To: 14 December 2024
 
-Total Time: 15 mins
+Total Time: 11 mins
 
-Go                     ████████████████████████▓   98.85 %
-JSON                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Go                     ████████████████████████▓   98.42 %
+JSON                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->

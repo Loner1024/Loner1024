@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2025 - To: 16 January 2025
+From: 10 January 2025 - To: 17 January 2025
 
-Total Time: 30 mins
+Total Time: 45 mins
 
-Docker                       ███████████████▒░░░░░░░░░   61.90 %
-TypeScript                   ██████░░░░░░░░░░░░░░░░░░░   23.82 %
-Rust                         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
-TOML                         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+Docker                       ██████████████████▓░░░░░░   74.34 %
+TypeScript                   ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
+Rust                         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+TOML                         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
 ```
 
 <!--END_SECTION:waka-->

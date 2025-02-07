@@ -5,11 +5,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 January 2025 - To: 05 February 2025
+From: 30 January 2025 - To: 06 February 2025
 
-Total Time: 15 mins
+Total Time: 2 hrs 12 mins
 
-Go                   █████████████████████████   100.00 %
+Rust                                ████████████████████▒░░░░   81.18 %
+Go                                  ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+Docker                              █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+GitIgnore file                      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+DockerIgnore file                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

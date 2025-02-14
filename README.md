@@ -5,15 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2025 - To: 12 February 2025
+From: 06 February 2025 - To: 13 February 2025
 
-Total Time: 1 hr 56 mins
+Total Time: 0 secs
 
-Rust                                ███████████████████████░░   91.80 %
-Docker                              ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-GitIgnore file                      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-TypeScript                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-DockerIgnore file                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

@@ -6,12 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2025 - To: 13 April 2025
+From: 07 April 2025 - To: 14 April 2025
 
-Total Time: 1 hr 7 mins
+Total Time: 1 hr 32 mins
 
-Go                               █████████████████████████   100.00 %
+Go                               █████████████████████████   99.91 %
+protobuf                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Makefile                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 GitIgnore file                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+go.mod                           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->

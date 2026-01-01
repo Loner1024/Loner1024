@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2025 - To: 30 December 2025
+From: 24 December 2025 - To: 31 December 2025
 
-Total Time: 5 hrs 35 mins
+Total Time: 4 hrs 48 mins
 
-Go                             ████████████░░░░░░░░░░░░░   47.38 %
-PHP                            █████░░░░░░░░░░░░░░░░░░░░   19.62 %
-Markdown                       ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
-shell script                   ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-git ignore                     █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Go                             ██████████████▒░░░░░░░░░░   57.15 %
+Markdown                       ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
+shell script                   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+PHP                            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+git ignore                     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
 ```
 
 <!--END_SECTION:waka-->

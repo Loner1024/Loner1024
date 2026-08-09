@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2026 - To: 07 August 2026
+From: 01 August 2026 - To: 08 August 2026
 
-Total Time: 4 hrs 16 mins
+Total Time: 3 hrs 18 mins
 
-Rust                             ██████████████████░░░░░░░   71.38 %
-Markdown                         ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
-JSON                             ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
+Rust                             █████████████████▒░░░░░░░   69.11 %
+JSON                             ████▒░░░░░░░░░░░░░░░░░░░░   17.99 %
+Markdown                         ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
 ```
 
 <!--END_SECTION:waka-->
